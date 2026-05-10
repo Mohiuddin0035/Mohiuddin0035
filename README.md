@@ -60,7 +60,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Mohiuddin0035">
-          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&.../api?username=Mohiuddin0035&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -78,7 +78,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Mohiuddin0035/StudyFlow">
-          <img align="center" width="470" src="https://github-readme-stats-sigma-gules-89.vercel.app/api/pin/?username=Mohiuddin0035&repo=StudyFlow&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+          <img align="center" width="470" src="https://https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&.../api/pin/?username=Mohiuddin0035&repo=StudyFlow&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Mohiuddin0035">
-          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+          <img align="center" src="https://https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&.../api?username=Mohiuddin0035&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
         </a>
       </p>
     </td>

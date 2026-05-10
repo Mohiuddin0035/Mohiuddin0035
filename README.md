@@ -112,29 +112,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:msaikat2420035@bscse.uiu.ac.bd" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="msaikat2420035@bscse.uiu.ac.bd" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/MoheuddinSaikat/" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.facebook.com/mohiuddin.s.saikat2.o/" target="_blank">
-<img src="./facebook.png" width=50 height=50 alt="Facebook" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://wa.me/8801701949270" target="_blank">
-<img src="./whatsapp.png" width=50 height=50 alt="WhatsApp" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/Mohiuddin0035" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Mohiuddin0035" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/moheuddin-saikat/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="Mohiuddin0035" style="margin-bottom: 5px;" />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohiuddin0001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohiuddin.s.saikat2.o) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohiuddin_saikat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moheuddin-saikat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoheuddinSaikat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msaikat2420035@bscse.uiu.ac.bd) 
 
 </div>
 <br/>

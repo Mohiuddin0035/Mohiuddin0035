@@ -1,18 +1,144 @@
-# 💫 About Me:
-🚀 I’m currently working on sharpening my DSA and software development skills  <br>🤝 I’m looking to collaborate on impactful AI/ML and full stack projects  <br>🫡 I’m looking for help with research guidance and scalable project architecture  <br>🌱 I’m currently learning modern web development, backend engineering, and machine learning  <br>💬 Ask me about C++, algorithms, tech learning paths, and productivity  <br>⚡ Fun fact: I enjoy turning random ideas into long-term projects
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Moheuddin Sikder SAIKAT!  
+*Aspiring Software Developer | CS Student | Research enthusiast*
+<br /> 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohiuddin0001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohiuddin.s.saikat2.o) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohiuddin_saikat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moheuddin-saikat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoheuddinSaikat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohiuddin.cse2420035.uiu@gmail.com) 
+<p align="left">I am a Computer Science student at United International University (UIU), currently learning programming from the ground up. I am exploring various technologies, including Java, C++, HTML, XML, CSS, JavaScript, PHP, and SQL. My main interests are in web development, software engineering, and databases. I enjoy building practical projects and experimenting with different ideas. Some of my projects include StudyFlow, UIU Companion, semester fee calculators, academic tools, and productivity-focused applications.</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohiuddin0035&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mohiuddin0035&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohiuddin0035&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- ✨ Passionate about learning and growing as a developer.
+- 🌱 Currently improving my understanding of programming fundamentals.
+- 💻 Exploring different programming languages and problem-solving techniques.
+- ✍ Interested in open-source contributions and real-world projects.
+- 🚀 Excited to apply my knowledge and build new things step by step.
+- 📜 Looking to connect and collaborate with other learners!
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohiuddin0035&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Mohiuddin0035" style="padding-right:20px;" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohiuddin0035&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Learning the basics of programming and software development.</li>
+  <li>Exploring C++, PHP, Java, and web technologies step by step.</li>
+  <li>Practicing problem-solving and improving coding logic.</li>
+</ul>
+
+<h3 align="left">Goals</h3>
+<ul align="left">
+  <li>Gain confidence in coding and build simple projects.</li>
+  <li>Understand web development and backend technologies.</li>
+  <li>Keep learning and improving through practice.</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/Mohiuddin0035">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+      <img alt="GitHub Trophies" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+    </picture>
+  </a>
+</p>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mohiuddin0035">
+          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mohiuddin0035">
+          <img align="center" src="https://streak-stats.demolab.com?user=Mohiuddin0035&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mohiuddin0035/StudyFlow">
+          <img align="center" width="470" src="https://github-readme-stats-sigma-gules-89.vercel.app/api/pin/?username=Mohiuddin0035&repo=StudyFlow&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mohiuddin0035">
+          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=Mohiuddin0035&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohiuddin0035&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
+
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Man%20should%20fear%20never%20beginning%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:msaikat2420035@bscse.uiu.ac.bd" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="msaikat2420035@bscse.uiu.ac.bd" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/MoheuddinSaikat/" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/mohiuddin.s.saikat2.o/" target="_blank">
+<img src="./facebook.png" width=50 height=50 alt="Facebook" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://wa.me/8801701949270" target="_blank">
+<img src="./whatsapp.png" width=50 height=50 alt="WhatsApp" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/Mohiuddin0035" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Mohiuddin0035" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/moheuddin-saikat/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="Mohiuddin0035" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>

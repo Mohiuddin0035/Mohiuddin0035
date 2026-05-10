@@ -7,7 +7,7 @@
 *Aspiring Software Developer | CS Student | Research enthusiast*
 <br /> 
 
-<p align="left">I am a Computer Science student at United International University (UIU), currently learning programming from the ground up. I am exploring various technologies, including Java, C++, HTML, XML, CSS, JavaScript, PHP, and SQL. My main interests are in web development, software engineering, and databases. I enjoy building practical projects and experimenting with different ideas. Some of my projects include StudyFlow, UIU Companion, semester fee calculators, academic tools, and productivity-focused applications.</p>
+<p align="left">I am a Computer Science student at United International University (UIU), currently learning programming from the ground up. I am exploring various technologies, including Java, C++, HTML, XML, CSS, JavaScript, PHP, and SQL. My main interests are in web development, software engineering, and databases. I enjoy building practical projects and experimenting with different ideas. Some of my projects include- Prompts-Banana, Mess Manager, <b>StudyFlow</b>, UIU Companion, semester fee calculators, academic tools, and productivity-focused applications.</p>
 
 - ✨ Passionate about learning and growing as a developer.
 - 🌱 Currently improving my understanding of programming fundamentals.

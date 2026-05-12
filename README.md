@@ -7,7 +7,7 @@
 *Aspiring Software Developer | CS Student | Research enthusiast*
 <br /> 
 
-<p align="left">I am a Computer Science student at United International University (UIU), currently learning programming from the ground up. I am exploring various technologies, including Java, C++, HTML, XML, CSS, JavaScript, PHP, and SQL. My main interests are in web development, software engineering, and databases. I enjoy building practical projects and experimenting with different ideas. Some of my projects include- Prompts-Banana, Mess Manager, <b>StudyFlow</b>, UIU Companion, semester fee calculators, academic tools, and productivity-focused applications.</p>
+<p align="left">I am a Computer Science student at United International University (UIU), currently learning programming from the ground up. I am exploring various technologies, including Java, C++, UI/UX with Figma, web development with HTML/CSS/JavaScript & React, and exploring app development and Machine Learning step by step. My main interests are in web development, Machine Learning, software engineering, and AI-driven healthcare technologies. I enjoy building practical projects and experimenting with different ideas. Some of my projects include- Prompts-Banana, Mess Manager, <b>StudyFlow</b>, UIU Companion, semester fee calculators, academic tools, and productivity-focused applications.</p>
 
 - ✨ Passionate about learning and growing as a developer.
 - 🌱 Currently improving my understanding of programming fundamentals.
@@ -15,6 +15,12 @@
 - ✍ Interested in open-source contributions and real-world projects.
 - 🚀 Excited to apply my knowledge and build new things step by step.
 - 📜 Looking to connect and collaborate with other learners!
+  
+  🔬 Current Research Interests
+- Machine Learning in Healthcare
+- Medical Imaging & Diagnostic AI
+- Bioinformatics & Biological Data Analysis
+- Applied Artificial Intelligence
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mohiuddin0035&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Mohiuddin0035" style="padding-right:20px;" />
@@ -32,15 +38,18 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Learning the basics of programming and software development.</li>
-  <li>Exploring C++, PHP, Java, and web technologies step by step.</li>
+  <li>UI/UX Design & Product Thinking.</li>
+  <li>Frontend and Full-Stack Web and App Development.</li>
+  <li>Machine Learning & Artificial Intelligence.</li>
   <li>Practicing problem-solving and improving coding logic.</li>
 </ul>
 
 <h3 align="left">Goals</h3>
 <ul align="left">
-  <li>Gain confidence in coding and build simple projects.</li>
-  <li>Understand web development and backend technologies.</li>
-  <li>Keep learning and improving through practice.</li>
+<li>Become a skilled full-stack and Machine Learning engineer.</li>
+<li>Build real-world web and mobile applications with clean UI/UX.</li>
+<li>Work on AI-driven healthcare and bioinformatics-related research projects.</li>
+<li>Strengthen problem-solving, software engineering, and research skills through continuous learning and practical projects.</li>
 </ul>
 
 <p align="center">

@@ -16,11 +16,11 @@
 - 🚀 Excited to apply my knowledge and build new things step by step.
 - 📜 Looking to connect and collaborate with other learners!
   
-  🔬 Current Research Interests
-- Machine Learning in Healthcare
-- Medical Imaging & Diagnostic AI
-- Bioinformatics & Biological Data Analysis
-- Applied Artificial Intelligence
+  🔬 Current Research Interests:
+- Machine Learning in Healthcare.
+- Medical Imaging & Diagnostic AI.
+- Bioinformatics & Biological Data Analysis.
+- Applied Artificial Intelligence.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mohiuddin0035&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Mohiuddin0035" style="padding-right:20px;" />
